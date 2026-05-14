@@ -1,0 +1,6 @@
+# Ignore cache and IDE files  
+__pycache__/  
+*.pyc  
+.idea/  
+*.sln  
+*.pyproj 
